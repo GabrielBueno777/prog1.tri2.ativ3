@@ -2,7 +2,7 @@
 
 ## Classes e objetos
 
--[link]([https://www.typescriptlang.org/play/?#code/MYGwhgzhAEDCYCcEHtoG8BQ1vQLaODAEIAuaCAFwQEsA7AcwG4sdhkFTyq6mMXsQ1eogAUASnT8c2NrQjIQAUwB0IZPREAieElSDhAE2SaxzaQF8MloA](https://www.typescriptlang.org/play/?#code/MYGwhgzhAEDCYCcEHtoG8BQ1vQLaODAEIAuaCAFwQEsA7AcwG4sdhkFTyq6mMMBfDG1qVohJMgCM0ALzRaAUwDucRCgAUASmbiUkgHT4EhWdABEAFWQBPZBTBmdaqfrYJTZgAoIFFZI75hCGQQBX0QZHp1XRcjQm0hZBEQsIiomIM3BKA))
+-[link]([[https://www.typescriptlang.org/play/?#code/MYGwhgzhAEDCYCcEHtoG8BQ1vQLaODAEIAuaCAFwQEsA7AcwG4sdhkFTyq6mMXsQ1eogAUASnT8c2NrQjIQAUwB0IZPREAieElSDhAE2SaxzaQF8MloA](https://www.typescriptlang.org/play/?#code/MYGwhgzhAEDCYCcEHtoG8BQ1vQLaODAEIAuaCAFwQEsA7AcwG4sdhkFTyq6mMMBfDG1qVohJMgCM0ALzRaAUwDucRCgAUASmbiUkgHT4EhWdABEAFWQBPZBTBmdaqfrYJTZgAoIFFZI75hCGQQBX0QZHp1XRcjQm0hZBEQsIiomIM3BKA)](https://www.typescriptlang.org/play/?#code/MYGwhgzhAEDCYCcEHtoG8BQ1vQLaODAEIAuaCAFwQEsA7AcwG4sdhkFTyq6mMBfDG1qVohJMgCM0ALzRaAUwDucRCgAUASmZiUEgHT4EhGdABEAFWQBPZBTCntqyXrYITpgAoJ5FZA4yCyMLIIPJ6IMj0ajrOhoRagcGh4ZHRTvquCUA))
 
 ## Atributos e métodos
 
